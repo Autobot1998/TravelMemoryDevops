@@ -75,7 +75,7 @@
     - name: Clone application
       become: false
       git:
-        repo: https://github.com/HellraiserOne/TravelMemory.git
+        repo: https://github.com/Autobot1998/TravelMemoryDevops.git
         dest: "{{ app_dir }}"
         force: true
     - name: Backend .env
