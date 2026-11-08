@@ -171,7 +171,3 @@ terraform destroy
 
 - `.gitignore` excludes `*.tfstate*`, `.terraform/`, `*.pem` and `terraform.tfvars`.
 - Region used: `ap-south-1` (Mumbai).
-
-## Author
-
-Datson ([HellraiserOne](https://github.com/HellraiserOne))
